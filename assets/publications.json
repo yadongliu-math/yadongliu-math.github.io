@@ -1,0 +1,132 @@
+[
+  {
+    "id": "2606.30532",
+    "year": 2026,
+    "status": "preprint",
+    "title": "Higher Order Convergence for the Sharp Interface Limit of 3D Navier–Stokes/Allen–Cahn Systems",
+    "authors": "Helmut Abels, Mingwen Fei, Yadong Liu, and Maximilian Moser",
+    "venue": "Preprint, 2026",
+    "topics": [
+      "two-phase"
+    ]
+  },
+  {
+    "id": "2604.26660",
+    "year": 2026,
+    "status": "preprint",
+    "title": "Global weak solutions to a diffuse-interface model for quasi-incompressible two-phase flows with unmatched densities and singular potential",
+    "authors": "Mingwen Fei, Xiang Fei, Yadong Liu, and Hao Wu",
+    "venue": "Preprint, 2026",
+    "topics": [
+      "two-phase"
+    ]
+  },
+  {
+    "id": "2508.08090",
+    "year": 2026,
+    "status": "accepted",
+    "title": "Weak solutions and incompressible limit of a quasi-incompressible Navier–Stokes/Cahn–Hilliard model for viscous two-phase flows",
+    "authors": "Mingwen Fei, Xiang Fei, Daozhi Han, and Yadong Liu",
+    "venue": "SIAM Journal on Mathematical Analysis, to appear, 2026",
+    "topics": [
+      "two-phase"
+    ]
+  },
+  {
+    "id": "2507.01618",
+    "year": 2026,
+    "status": "accepted",
+    "title": "A Thermodynamically Consistent Free Boundary Model for Two-Phase Flows in an Evolving Domain with Bulk-Surface Interaction",
+    "authors": "Patrik Knopf and Yadong Liu",
+    "venue": "Interfaces and Free Boundaries, to appear, 2026",
+    "topics": [
+      "free-boundaries",
+      "two-phase"
+    ]
+  },
+  {
+    "id": "2405.09908",
+    "year": 2026,
+    "status": "published",
+    "title": "Weak solutions and singular limits for a compressible fluid-structure interaction problem with slip boundary conditions",
+    "authors": "Yadong Liu, Sourav Mitra, and Šárka Nečasová",
+    "venue": "SIAM Journal on Mathematical Analysis 58(3), 2536–2577 (2026)",
+    "doi": "10.1137/25M1736827",
+    "topics": [
+      "fsi"
+    ]
+  },
+  {
+    "id": "2411.09455",
+    "year": 2026,
+    "status": "published",
+    "title": "Local-in-time existence of strong solutions to a quasi-incompressible Cahn–Hilliard–Navier–Stokes system",
+    "authors": "Mingwen Fei, Xiang Fei, Daozhi Han, and Yadong Liu",
+    "venue": "ZAMM 106(5), e70443 (2026)",
+    "doi": "10.1002/zamm.70443",
+    "topics": [
+      "two-phase"
+    ]
+  },
+  {
+    "id": "2212.13507",
+    "year": 2025,
+    "status": "published",
+    "title": "On a diffuse interface model for incompressible viscoelastic two-phase flows",
+    "authors": "Yadong Liu and Dennis Trautwein",
+    "venue": "Journal of Nonlinear Science 35, Article 12, 1–71 (2025)",
+    "doi": "10.1007/s00332-024-10103-w",
+    "topics": [
+      "free-boundaries",
+      "two-phase"
+    ]
+  },
+  {
+    "id": "2402.04372",
+    "year": 2024,
+    "status": "published",
+    "title": "Low Mach Number Limit of a Diffuse Interface Model for Two-Phase Flows of Compressible Viscous Fluids",
+    "authors": "Helmut Abels, Yadong Liu, and Šárka Nečasová",
+    "venue": "GAMM-Mitteilungen 47, e202470008, 1–15 (2024)",
+    "doi": "10.1002/gamm.202470008",
+    "topics": [
+      "two-phase"
+    ]
+  },
+  {
+    "id": "2208.06280",
+    "year": 2023,
+    "status": "published",
+    "title": "Short time existence of a quasi-stationary fluid-structure interaction problem for plaque growth",
+    "authors": "Helmut Abels and Yadong Liu",
+    "venue": "Advances in Nonlinear Analysis 12(1), 20230101 (2023)",
+    "doi": "10.1515/anona-2023-0101",
+    "topics": [
+      "fsi"
+    ]
+  },
+  {
+    "id": "2112.12538",
+    "year": 2023,
+    "status": "published",
+    "title": "On a fluid-structure interaction problem for plaque growth: cylindrical domain",
+    "authors": "Helmut Abels and Yadong Liu",
+    "venue": "Journal of Differential Equations 345, 334–400 (2023)",
+    "doi": "10.1016/j.jde.2022.11.046",
+    "topics": [
+      "fsi"
+    ]
+  },
+  {
+    "id": "2110.00042",
+    "year": 2023,
+    "status": "published",
+    "title": "On a fluid-structure interaction problem for plaque growth",
+    "authors": "Helmut Abels and Yadong Liu",
+    "venue": "Nonlinearity 36(1), 537–583 (2023)",
+    "doi": "10.1088/1361-6544/aca5e1",
+    "topics": [
+      "fsi"
+    ]
+  }
+]
